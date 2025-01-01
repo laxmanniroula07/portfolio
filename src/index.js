@@ -4,7 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 03953244c693fd4263609af8dfb26de300da452f
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
